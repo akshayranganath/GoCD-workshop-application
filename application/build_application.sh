@@ -2,7 +2,7 @@
 
 set -e
 
-echo "Building application"
+echo "Build: Building application"
 
 i=1
 
